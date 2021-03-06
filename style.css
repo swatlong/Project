@@ -1,0 +1,41 @@
+.navbar-brand{
+    font-size: 1 rem;
+    padding-left: .75rem;
+    padding-top: .1875rem;
+    display: block;
+    float: left;
+    font-weight: 700;
+    line-height: 1.75;
+    
+}
+.background{
+    height: 600px;
+    margin: -20px;
+    padding: -20px;
+    /* background-image: url("mike-kenneally-TD4DBagg2wE-unsplash.jpg"); */
+    
+}
+
+.d-flex{
+    /* justify-content: stretch; */
+    /* margin-left: ;
+    margin-right: 50px; */
+    
+    
+    
+    
+    
+    
+}
+h1{
+    background-color: rgb(0, 0, 0,.5);
+    text-indent: 400px;
+    padding-top: 500px;
+    padding: 30px;
+}
+/* .container{
+    align-items: flex-end;
+} */
+.card{
+    height: 0%;
+}
